@@ -1,0 +1,10 @@
+D:\MyConfiguration\TCLDUSER\AppData\Local\JetBrains\CLion2020.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/MyGitHubProject/redis/redis
+-- Host is: CYGWIN-3.2.0(0.340/5/3).  Build target is: CYGWIN-3.2.0(0.340/5/3)
+-- Project root directory is: /cygdrive/d/MyGitHubProject/redis/redis
+-- Generating release.h...
+#define REDIS_GIT_SHA1 "0cae0900"
+#define REDIS_GIT_DIRTY "0"
+Detected version: 0.14.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/MyGitHubProject/redis/redis/cmake-build-debug
